@@ -1,5 +1,5 @@
-alexlv
-Alex Levenzon
+Read the instructions file first :)
+
 EX1 - String Pattern Matching Algorithm PartB
 slist.c - Implementation of a generic linked list
 pattern-matching.c - implementation of a patterns matching automat
